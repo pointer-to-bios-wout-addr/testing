@@ -14,8 +14,7 @@
 m行，每行输出对象类型以及对象名。
 若id没有对应对象，输出"Object not found."
 
-样例：
-输入：
+样例输入：
 --------------
 5
 1 inputfile:ifile
@@ -27,6 +26,13 @@ m行，每行输出对象类型以及对象名。
 10
 4
 12
+--------------
+
+样例输出：
+--------------
+Object not found.
+ofile outputfile
+list<int> integer_list
 --------------
 */
 
